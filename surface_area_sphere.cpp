@@ -44,7 +44,7 @@ int main() {
                 surfaceAreaSphere = surfaceArea(radiusInt);
 
                 std::cout << "A sphere with a radius of " << radiusInt
-                          << " cm has a volume of " << surfaceAreaSphere
+                          << " cm has a surface area of " << surfaceAreaSphere
                           << " cm²." << std::endl;
 
                 break;
